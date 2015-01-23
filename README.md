@@ -18,7 +18,9 @@ To git@github.com:Alelujah/newRepo.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
 
-Then reloaded into local github and synced after asdding this readme
+Then reloaded into local github and synced after adding this readme
 
 and again - lol
+
+and again to rewmove spelling mistakes
 
